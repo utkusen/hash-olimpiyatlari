@@ -83,12 +83,12 @@ Yarışma duyurularını aşağıda paylaşılan Discord kanalımızdan ya da [h
 
 ## Yarışmaya Hazırlanmak İçin Faydalı Kaynaklar
 
-Utku Şen'in "Hash Saldırıları" video serisi:
+- Utku Şen'in "Hash Saldırıları" video serisi:
 
-- [Yemeksepeti'nin SHA256 Tercihi ve Hashing Hakkında Konuşuyoruz | Hash Atakları 1. Bölüm](https://www.youtube.com/watch?v=oPS5v7OTjnw)
-- [Hashcat Kullanımı ve Hash Kırma Saldırıları | Hash Atakları 2. Bölüm](https://www.youtube.com/watch?v=lCFIUd_Wnpg)
-- [E-Ticaret Sitelerinden Sızan Hashleri Kırıyoruz | Hash Atakları 3. Bölüm](https://www.youtube.com/watch?v=WkT3xy0etd4)
+    - [Yemeksepeti'nin SHA256 Tercihi ve Hashing Hakkında Konuşuyoruz | Hash Atakları 1. Bölüm](https://www.youtube.com/watch?v=oPS5v7OTjnw)
+    - [Hashcat Kullanımı ve Hash Kırma Saldırıları | Hash Atakları 2. Bölüm](https://www.youtube.com/watch?v=lCFIUd_Wnpg)
+    - [E-Ticaret Sitelerinden Sızan Hashleri Kırıyoruz | Hash Atakları 3. Bölüm](https://www.youtube.com/watch?v=WkT3xy0etd4)
 
-[Crackstation Password Hashing Security](https://crackstation.net/hashing-security.htm)
+- [Crackstation Password Hashing Security](https://crackstation.net/hashing-security.htm)
 
-[How To Perform A Rule-Based Attack Using Hashcat](https://www.4armed.com/blog/hashcat-rule-based-attack/)
+- [How To Perform A Rule-Based Attack Using Hashcat](https://www.4armed.com/blog/hashcat-rule-based-attack/)
