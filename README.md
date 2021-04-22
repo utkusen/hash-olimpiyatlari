@@ -1,3 +1,6 @@
+<p align="center">
+  <img width=50% height=50% src="hash.png">
+</p>
 
 Hash Olimpiyatları; Hashcat yazılımını ve parola istatistiklerini en efektif şekilde kullanarak, gerçek veritabanlarından sızan hashleri kırmaya yönelik bir yarışmadır. Yarışmacılar bir donanım kullanarak hash kırmaz, fakat hashlerin kırılması için gerekli listeleri hazırlarlar. Dolayısıyla bu bir donanım kapasitesi ya da hız değil, bilgi ve analiz yeteneği yarışmasıdır. Detaylı bilgi için "Yarışma Süreci" bağlığını okuyabilirsiniz.
 
