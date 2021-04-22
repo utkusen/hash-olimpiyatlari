@@ -2,14 +2,14 @@
   <img width=50% height=50% src="hash.png">
 </p>
 
-Hash Olimpiyatları; Hashcat yazılımını ve parola istatistiklerini en efektif şekilde kullanarak, gerçek veritabanlarından sızan hashleri kırmaya yönelik bir yarışmadır. Yarışmacılar bir donanım kullanarak hash kırmaz, fakat hashlerin kırılması için gerekli listeleri hazırlarlar. Dolayısıyla bu bir donanım kapasitesi ya da hız değil, bilgi ve analiz yeteneği yarışmasıdır. Detaylı bilgi için "Yarışma Süreci" bağlığını okuyabilirsiniz.
+Hash Olimpiyatları; Hashcat yazılımını ve parola istatistiklerini en efektif şekilde kullanarak, gerçek veritabanlarından sızan hashlerin kırılmasını amaçlayan bir yarışmadır. Yarışmacılar bir donanım kullanarak hash kırmaz, fakat hashlerin kırılması için gerekli listeleri hazırlarlar. Dolayısıyla bu bir donanım kapasitesi ya da hız değil, bilgi ve analiz yeteneği yarışmasıdır. Detaylı bilgi için "Yarışma Süreci" bağlığını okuyabilirsiniz.
 
 ## Yarışma Süreci
 
-1. Yarışma, bir moderatör (yayıncı) ve belirli sayıda kişi ya da grubun (yarışmacı) katılımıyla gerçekleşir
+1. Yarışma, bir moderatör (yayıncı) ve belirli sayıda kişi ya da grubun (yarışmacı) katılımıyla gerçekleşir.
 2. Moderatör, gerçek bir hack vakasından sızan bir veritabanı bulur. Buradaki kişisel verileri silerek parola hashlerini kaydeder. 
 3. Sızıntının ya da veritabanının ismi yarışma gününden önce açıklanmaz. Fakat kullanıcıların dili ve varsa platformun parola kuralları (policy) açıklanır.
-4. Moderatör, aşağıda yer alan elemanları kullanarak bir saldırı kombinasyonu belirler: (Bu kombinasyonlar her yarışmada farklı olacaktır)
+4. Moderatör, aşağıda yer alan etmenleri kullanarak bir saldırı kombinasyonu belirler: (Bu kombinasyonlar her yarışmada farklı olacaktır)
     - Parola sayısı
     - Hashcat kural (rule) sayısı
     - Hashcat mask sayısı
@@ -17,7 +17,7 @@ Hash Olimpiyatları; Hashcat yazılımını ve parola istatistiklerini en efekti
     Örnek kombinasyonlar: 30 parola, 15 kural, 0 mask | 100 parola, 10 kural, 1 mask | 10 parola 50 kural 5 mask
 
 5. Saldırı kombinasyonu yarışmadan en az 1 hafta önceden duyurulur.
-6. Yarışmacıların amacı, moderatör tarafından belirlenen saldırı kombinasyonuna göre listeler hazırlayarak, hedef hash listesindeki en çok hash'in kırılmasını sağlamaktır. Yarışmacılar yarışma gününe kadar listelerini moderatör'e e-posta yoluyla iletmelidir. Örnek bir senaryo:
+6. Yarışmacıların amacı, moderatör tarafından belirlenen saldırı kombinasyonuna göre listeler hazırlayarak, hedef veritabanındaki en çok hash'in kırılmasını sağlamaktır. Yarışmacılar yarışma gününe kadar listelerini moderatör'e e-posta yoluyla iletmelidir. Örnek bir senaryo:
     - Moderatörün belirlediği saldırı kombinasyonu: 5 parola, 5 kural, 1 mask
     - Yarışmacının göndereceği örnek listeler:
 
@@ -46,7 +46,7 @@ Hash Olimpiyatları; Hashcat yazılımını ve parola istatistiklerini en efekti
 | Hikmet    | 9,543               | %27.5                |
 ```
 
-Bu sonuç tablosuna göre Ayşe birinci, Kerim ikinci, Hikmet üçüncü olmuştur.
+Bu sonuç tablosuna göre Gözde birinci, Kerim ikinci, Hikmet üçüncü olmuştur.
 
 ## Kurallar
 
