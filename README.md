@@ -56,7 +56,7 @@ Bu sonuç tablosuna göre Gözde birinci, Kerim ikinci, Hikmet üçüncü olmuş
 
 ## Yarışma Sonuçları
 
-Henüz tamamlanmış bir yarışma bulunmamaktadır.
+Yarışma sonuçlarına [buradan](https://github.com/utkusen/hash-olimpiyatlari/blob/main/sonuclar.MD) ulaşabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 
