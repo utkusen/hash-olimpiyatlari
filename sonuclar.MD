@@ -4,6 +4,12 @@
 
 **Toplam katılımcı:** 18
 
+**Ödül Sponsorları:**
+
+- Alper Başaran (https://twitter.com/basaranalper) - Steelseries RGB Mouse
+- Mutlu Şen (https://twitter.com/mutlusen) - 150TL Amazon Hediye Çeki
+- Mutlu Şen (https://twitter.com/mutlusen) - 100TL Amazon Hediye Çeki
+
 **Sonuç Tablosu**
 
 | Yarışmacı       | Kırılan Hash Sayısı | Kırılan Hash Yüzdesi |
