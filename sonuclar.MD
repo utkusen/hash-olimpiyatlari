@@ -4,6 +4,8 @@
 
 **Toplam katılımcı:** 18
 
+**Hedef Veritabanının Mahlası:** Ayakkabı üreticisi hikmet kanca
+
 **Ödül Sponsorları:**
 
 - Alper Başaran (https://twitter.com/basaranalper) - Steelseries RGB Mouse
