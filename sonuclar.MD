@@ -6,6 +6,8 @@
 
 **Hedef Veritabanının Mahlası:** Ayakkabı üreticisi hikmet kanca
 
+**Saldırı Kombinasyonu:** 30 parola, 15 Hashcat kuralı, 0 Hashcat mask'ı
+
 **Ödül Sponsorları:**
 
 - Alper Başaran (https://twitter.com/basaranalper) - Steelseries RGB Mouse
